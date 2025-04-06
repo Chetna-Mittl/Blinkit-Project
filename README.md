@@ -1,7 +1,7 @@
 # Blinkit Sales Dashboard
 
 ## Overview
-- The Blinking Sales Dashboard is an interactive Power BI dashboard designed to provide real-time insights into sales performance. It enables users to monitor key business metrics, track trends, and make data-driven decisions effectively.
+- The Blinkit Sales Dashboard is an interactive Power BI dashboard designed to provide real-time insights into sales performance. It enables users to monitor key business metrics, track trends, and make data-driven decisions effectively.
 - Refined 8,500+ datasets and visualized 4 KPIs on sales performance, user ratings & more.
 - Evaluated 10 years of sales data & visualized tier-wise performance of outlets, best selling items & avg sales.
   <br>
